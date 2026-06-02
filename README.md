@@ -1,5 +1,9 @@
 # CredNote — B2B Financial Automation & Debt Recovery SaaS
 
+<p align="center">
+  <img src="img/CredNote Print.bmp" alt="CredNote Dashboard" width="100%">
+</p>
+
 CredNote is a robust, production-ready B2B Software-as-a-Service (SaaS) platform engineered to solve a critical retail market pain point: merchant delinquency. The platform automates complex financial notification and collection workflows, leveraging real-time messaging and modern fintech integrations to reduce payment delays instantly.
 
 ## 🚀 Architectural Overview
